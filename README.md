@@ -8,7 +8,7 @@ My home network and server setup. I'm using it to run labs and learn networking 
 
 ## Hardware
 
-<p align="center"><img src="rack.jpg" alt="Rack" width="400"></p>
+<img src="rack.jpg" alt="Rack" width="400"></p>
 
 | Device | Specs | Role |
 | --- | --- | --- |
